@@ -3,7 +3,7 @@
 ### Dates: Apr 28-May 2, 2025
 
 ### Requirements:
-[See the following link for setting up software](settingup.md)
+[See the following link for setting up software](setup.md)
 
 ### Workshop Material
 
