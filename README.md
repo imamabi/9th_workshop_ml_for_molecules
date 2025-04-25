@@ -1,4 +1,4 @@
-# Repository of Material for the 6th i-CoMSE Workshop: Methods for Advanced Sampling
+# Repository of Material for the 9th i-CoMSE Workshop: Machine Learning for Molecules
 
 ### Dates: Apr 28-May 2, 2025
 
