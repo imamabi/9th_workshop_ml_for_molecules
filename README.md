@@ -9,7 +9,7 @@
 
 | Session             |   Description and links      |
 |---------------------|---------------------|
-| Monday    | [Review of ML Concepts](Monday/README.md)           |              
+| Monday    | [Introduction and Review of ML Concepts](Monday/README.md)           |              
 | Tuesday   | [Molecular Featurization](Tuesday/README.md)        |                
 | Wednesday | [Neural Nets and Graph Neural Nets in PyTorch](Wednesday/README.md)                    |        
 | Thursday | [Active Learning](Thursday/README.md)                |               
