@@ -9,6 +9,6 @@
 * Introduction to ML concepts (Dr. Camille Bilodeau)
 * Break (2:50-3:00)
 
-### Session 3 (3:00-3:50)
+### Session 3 (3:00-4:00)
 * Decision trees and random forests (Dr. Jindah Shah) [Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Monday/Decision_Tree_Random_Forests/RandomForest.ipynb)
-* Questions and summary of day (3:50-4:00) Dr. Michael Shirts
+* Questions and summary of day (3:50-4:00) (Dr. Michael Shirts)
