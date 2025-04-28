@@ -6,7 +6,7 @@
 * Break (1:50-2:00)
 
 ### Session 2 (2:00-2:50)
-* Introduction to ML concepts (Dr. Camille Bilodeau, University of Virginia)[Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Monday/Day1_IntroToML.ipynb) (continued)
+* Introduction to ML concepts (Dr. Camille Bilodeau, University of Virginia) [Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Monday/Day1_IntroToML.ipynb) (continued)
 * Break (2:50-3:00)
 
 ### Session 3 (3:00-4:00)
